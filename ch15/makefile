@@ -1,3 +1,4 @@
+### 注意ch15的代码来自os-elephant repo，和之前的章节代码稍有差异，要删除ch14的外面的boot.inc才能运行此makefile
 BUILD_DIR = ./build
 DISK_IMG = hd10M.img
 DISK_IMG2 = hd50M.img
